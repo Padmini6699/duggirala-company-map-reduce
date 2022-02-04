@@ -1,0 +1,62 @@
+Argentina  	 2.0
+Australia  	 31.0
+Austria  	 9.0
+Bahrain  	 1.0
+Bangladesh  	 1.0
+Belgium  	 9.0
+Bermuda  	 6.0
+Brazil  	 21.0
+Canada  	 54.0
+Chile  	 5.0
+China  	 279.0
+Colombia  	 3.0
+Country  	 1.0
+Cyprus  	 1.0
+Czech Republic  	 1.0
+Denmark  	 12.0
+Egypt  	 1.0
+Finland  	 9.0
+France  	 50.0
+Germany  	 52.0
+Greece  	 5.0
+Hong Kong  	 58.0
+Hungary  	 2.0
+India  	 50.0
+Indonesia  	 6.0
+Ireland  	 18.0
+Israel  	 10.0
+Italy  	 21.0
+Japan  	 210.0
+Kazakhstan  	 2.0
+Kenya  	 1.0
+Kuwait  	 3.0
+Luxembourg  	 6.0
+Malaysia  	 8.0
+Mexico  	 10.0
+Monaco  	 1.0
+Morocco  	 3.0
+Netherlands  	 19.0
+Nigeria  	 2.0
+Norway  	 8.0
+Oman  	 1.0
+Peru  	 1.0
+Philippines  	 6.0
+Poland  	 7.0
+Portugal  	 4.0
+Qatar  	 6.0
+Russia  	 24.0
+Saudi Arabia  	 12.0
+Singapore  	 9.0
+South Africa  	 15.0
+South Korea  	 62.0
+Spain  	 20.0
+Sweden  	 32.0
+Switzerland  	 41.0
+Taiwan  	 45.0
+Thailand  	 14.0
+Turkey  	 9.0
+United Arab Emirates  	 9.0
+United Kingdom  	 61.0
+United States  	 578.0
+Venezuela  	 1.0
+Vietnam  	 5.0

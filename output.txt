@@ -1,0 +1,1953 @@
+Country 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+Hong Kong 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+Germany 	 1
+Japan 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+Russia 	 1
+United States 	 1
+France 	 1
+Hong Kong 	 1
+India 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+Germany 	 1
+United States 	 1
+China 	 1
+France 	 1
+Switzerland 	 1
+Taiwan 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+France 	 1
+Italy 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+Canada 	 1
+Australia 	 1
+Australia 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+Australia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+United States 	 1
+Canada 	 1
+Taiwan 	 1
+United States 	 1
+China 	 1
+United Kingdom 	 1
+United States 	 1
+Russia 	 1
+China 	 1
+China 	 1
+United States 	 1
+Spain 	 1
+United Kingdom 	 1
+Japan 	 1
+Canada 	 1
+United States 	 1
+Brazil 	 1
+India 	 1
+Switzerland 	 1
+Japan 	 1
+Brazil 	 1
+United States 	 1
+United States 	 1
+India 	 1
+Japan 	 1
+United States 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+Ireland 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+Italy 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+Australia 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+Canada 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+France 	 1
+Brazil 	 1
+South Korea 	 1
+United States 	 1
+Australia 	 1
+France 	 1
+Brazil 	 1
+United States 	 1
+United Kingdom 	 1
+China 	 1
+United States 	 1
+Singapore 	 1
+Venezuela 	 1
+United States 	 1
+United States 	 1
+Australia 	 1
+Ireland 	 1
+United States 	 1
+Canada 	 1
+China 	 1
+South Korea 	 1
+United States 	 1
+France 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Hong Kong 	 1
+India 	 1
+China 	 1
+United States 	 1
+Switzerland 	 1
+United States 	 1
+Hong Kong 	 1
+United Kingdom 	 1
+United States 	 1
+Hong Kong 	 1
+Spain 	 1
+United States 	 1
+United States 	 1
+Mexico 	 1
+Japan 	 1
+Singapore 	 1
+United States 	 1
+China 	 1
+France 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Taiwan 	 1
+France 	 1
+Taiwan 	 1
+Canada 	 1
+United States 	 1
+Denmark 	 1
+Sweden 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+United States 	 1
+India 	 1
+Qatar 	 1
+China 	 1
+France 	 1
+Finland 	 1
+United States 	 1
+Switzerland 	 1
+China 	 1
+Japan 	 1
+South Korea 	 1
+China 	 1
+United States 	 1
+Germany 	 1
+Germany 	 1
+Thailand 	 1
+Spain 	 1
+United Kingdom 	 1
+United States 	 1
+France 	 1
+Japan 	 1
+Canada 	 1
+United States 	 1
+China 	 1
+China 	 1
+Finland 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Netherlands 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Switzerland 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Belgium 	 1
+Netherlands 	 1
+Hong Kong 	 1
+Denmark 	 1
+Sweden 	 1
+United States 	 1
+China 	 1
+China 	 1
+China 	 1
+South Korea 	 1
+Japan 	 1
+United States 	 1
+South Korea 	 1
+United States 	 1
+United Kingdom 	 1
+Brazil 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+Hong Kong 	 1
+Singapore 	 1
+United States 	 1
+South Korea 	 1
+Netherlands 	 1
+Japan 	 1
+France 	 1
+United Kingdom 	 1
+United Kingdom 	 1
+China 	 1
+Italy 	 1
+United States 	 1
+Japan 	 1
+United Kingdom 	 1
+Germany 	 1
+Japan 	 1
+South Korea 	 1
+Sweden 	 1
+Singapore 	 1
+Canada 	 1
+China 	 1
+United States 	 1
+France 	 1
+Spain 	 1
+United States 	 1
+Canada 	 1
+Canada 	 1
+Saudi Arabia 	 1
+China 	 1
+Spain 	 1
+Australia 	 1
+United States 	 1
+Russia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United Arab Emirates 	 1
+United States 	 1
+United States 	 1
+France 	 1
+Saudi Arabia 	 1
+United States 	 1
+India 	 1
+Netherlands 	 1
+Netherlands 	 1
+United States 	 1
+United Arab Emirates 	 1
+Japan 	 1
+Japan 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+Switzerland 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+China 	 1
+China 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Norway 	 1
+France 	 1
+Japan 	 1
+Australia 	 1
+China 	 1
+United States 	 1
+Canada 	 1
+United Kingdom 	 1
+United States 	 1
+South Korea 	 1
+Ireland 	 1
+United States 	 1
+China 	 1
+Ireland 	 1
+Australia 	 1
+Germany 	 1
+China 	 1
+Indonesia 	 1
+Japan 	 1
+Malaysia 	 1
+Japan 	 1
+India 	 1
+Russia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+Belgium 	 1
+United States 	 1
+United States 	 1
+Saudi Arabia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United Kingdom 	 1
+United States 	 1
+Russia 	 1
+China 	 1
+South Korea 	 1
+United Arab Emirates 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Taiwan 	 1
+Netherlands 	 1
+Italy 	 1
+China 	 1
+Canada 	 1
+Sweden 	 1
+Japan 	 1
+Ireland 	 1
+China 	 1
+United States 	 1
+France 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+Denmark 	 1
+United States 	 1
+Austria 	 1
+Saudi Arabia 	 1
+Switzerland 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Netherlands 	 1
+Japan 	 1
+Germany 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+South Korea 	 1
+China 	 1
+Germany 	 1
+Japan 	 1
+United States 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+Australia 	 1
+Indonesia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Norway 	 1
+United States 	 1
+Hong Kong 	 1
+Japan 	 1
+United States 	 1
+South Korea 	 1
+India 	 1
+Australia 	 1
+United States 	 1
+Germany 	 1
+France 	 1
+United Kingdom 	 1
+Sweden 	 1
+Japan 	 1
+United States 	 1
+China 	 1
+United States 	 1
+China 	 1
+China 	 1
+France 	 1
+Italy 	 1
+Japan 	 1
+Hong Kong 	 1
+Hong Kong 	 1
+China 	 1
+Portugal 	 1
+Russia 	 1
+China 	 1
+Mexico 	 1
+France 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+South Korea 	 1
+United States 	 1
+Bermuda 	 1
+United States 	 1
+United States 	 1
+China 	 1
+South Korea 	 1
+Saudi Arabia 	 1
+France 	 1
+United States 	 1
+France 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+Norway 	 1
+China 	 1
+United States 	 1
+United States 	 1
+India 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Australia 	 1
+France 	 1
+Mexico 	 1
+United States 	 1
+China 	 1
+Sweden 	 1
+United States 	 1
+Japan 	 1
+South Africa 	 1
+Germany 	 1
+United States 	 1
+Indonesia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+India 	 1
+Russia 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+Switzerland 	 1
+Switzerland 	 1
+Canada 	 1
+United Kingdom 	 1
+United States 	 1
+Denmark 	 1
+Brazil 	 1
+Belgium 	 1
+Japan 	 1
+Germany 	 1
+Russia 	 1
+United States 	 1
+China 	 1
+South Africa 	 1
+Ireland 	 1
+Japan 	 1
+Austria 	 1
+Japan 	 1
+Japan 	 1
+Luxembourg 	 1
+United States 	 1
+China 	 1
+Taiwan 	 1
+Denmark 	 1
+Japan 	 1
+United States 	 1
+United Kingdom 	 1
+Singapore 	 1
+China 	 1
+Japan 	 1
+Hong Kong 	 1
+Canada 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Hong Kong 	 1
+South Africa 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+United Kingdom 	 1
+Germany 	 1
+United States 	 1
+China 	 1
+Hong Kong 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+France 	 1
+Japan 	 1
+United States 	 1
+China 	 1
+Canada 	 1
+Sweden 	 1
+Japan 	 1
+France 	 1
+Japan 	 1
+India 	 1
+United States 	 1
+United States 	 1
+Turkey 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+Russia 	 1
+United States 	 1
+India 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Ireland 	 1
+China 	 1
+United States 	 1
+Taiwan 	 1
+China 	 1
+China 	 1
+China 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+Japan 	 1
+Denmark 	 1
+United Kingdom 	 1
+China 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+Taiwan 	 1
+Colombia 	 1
+United Kingdom 	 1
+China 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Sweden 	 1
+Bermuda 	 1
+France 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+Canada 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Bermuda 	 1
+Switzerland 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+South Korea 	 1
+Australia 	 1
+China 	 1
+South Korea 	 1
+Japan 	 1
+United States 	 1
+India 	 1
+United States 	 1
+Spain 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+Taiwan 	 1
+South Korea 	 1
+Turkey 	 1
+United States 	 1
+Thailand 	 1
+Netherlands 	 1
+China 	 1
+France 	 1
+Malaysia 	 1
+Brazil 	 1
+United States 	 1
+Japan 	 1
+Spain 	 1
+France 	 1
+Japan 	 1
+Japan 	 1
+Taiwan 	 1
+Canada 	 1
+China 	 1
+Italy 	 1
+France 	 1
+Canada 	 1
+China 	 1
+Malaysia 	 1
+Hong Kong 	 1
+India 	 1
+China 	 1
+China 	 1
+Switzerland 	 1
+Japan 	 1
+United States 	 1
+China 	 1
+China 	 1
+United States 	 1
+Thailand 	 1
+Saudi Arabia 	 1
+China 	 1
+China 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+Finland 	 1
+Canada 	 1
+Finland 	 1
+United States 	 1
+Finland 	 1
+Switzerland 	 1
+United Kingdom 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+India 	 1
+Hong Kong 	 1
+United Kingdom 	 1
+South Korea 	 1
+Spain 	 1
+India 	 1
+Mexico 	 1
+Australia 	 1
+Hong Kong 	 1
+Canada 	 1
+Denmark 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+France 	 1
+Spain 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Sweden 	 1
+Germany 	 1
+China 	 1
+China 	 1
+China 	 1
+United States 	 1
+Russia 	 1
+China 	 1
+Sweden 	 1
+United States 	 1
+Japan 	 1
+Canada 	 1
+China 	 1
+Taiwan 	 1
+Japan 	 1
+South Korea 	 1
+China 	 1
+Indonesia 	 1
+France 	 1
+Finland 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Austria 	 1
+India 	 1
+India 	 1
+Taiwan 	 1
+Netherlands 	 1
+South Korea 	 1
+United States 	 1
+United States 	 1
+Kuwait 	 1
+Taiwan 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+India 	 1
+United States 	 1
+Germany 	 1
+Taiwan 	 1
+Switzerland 	 1
+Netherlands 	 1
+Thailand 	 1
+India 	 1
+United Kingdom 	 1
+Taiwan 	 1
+United States 	 1
+India 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+South Africa 	 1
+India 	 1
+Turkey 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+China 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+Sweden 	 1
+Taiwan 	 1
+United States 	 1
+Colombia 	 1
+United States 	 1
+Hong Kong 	 1
+United Arab Emirates 	 1
+United States 	 1
+United States 	 1
+United Arab Emirates 	 1
+Hong Kong 	 1
+United States 	 1
+Netherlands 	 1
+Canada 	 1
+United States 	 1
+China 	 1
+United States 	 1
+China 	 1
+Switzerland 	 1
+France 	 1
+South Korea 	 1
+India 	 1
+China 	 1
+United States 	 1
+Finland 	 1
+Finland 	 1
+China 	 1
+China 	 1
+Netherlands 	 1
+Thailand 	 1
+China 	 1
+United States 	 1
+Australia 	 1
+Japan 	 1
+Sweden 	 1
+Japan 	 1
+United Kingdom 	 1
+China 	 1
+Japan 	 1
+Taiwan 	 1
+Taiwan 	 1
+United Kingdom 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Thailand 	 1
+China 	 1
+Russia 	 1
+China 	 1
+South Korea 	 1
+China 	 1
+China 	 1
+Taiwan 	 1
+China 	 1
+United States 	 1
+China 	 1
+Italy 	 1
+Turkey 	 1
+Hungary 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Philippines 	 1
+Taiwan 	 1
+Japan 	 1
+Poland 	 1
+Poland 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Italy 	 1
+Vietnam 	 1
+India 	 1
+United States 	 1
+Switzerland 	 1
+Ireland 	 1
+Turkey 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+United Kingdom 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+France 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Poland 	 1
+Russia 	 1
+India 	 1
+United States 	 1
+South Korea 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Taiwan 	 1
+United States 	 1
+Kuwait 	 1
+China 	 1
+Japan 	 1
+Hong Kong 	 1
+United States 	 1
+Canada 	 1
+Switzerland 	 1
+United States 	 1
+Canada 	 1
+India 	 1
+United Kingdom 	 1
+Norway 	 1
+China 	 1
+Japan 	 1
+Sweden 	 1
+China 	 1
+Israel 	 1
+Hong Kong 	 1
+United States 	 1
+India 	 1
+China 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Russia 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+Israel 	 1
+Bermuda 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+Japan 	 1
+South Korea 	 1
+South Africa 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+Brazil 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+China 	 1
+Taiwan 	 1
+United States 	 1
+China 	 1
+Israel 	 1
+China 	 1
+Poland 	 1
+Turkey 	 1
+Japan 	 1
+United States 	 1
+Netherlands 	 1
+United States 	 1
+Monaco 	 1
+United States 	 1
+Hong Kong 	 1
+China 	 1
+South Korea 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+France 	 1
+China 	 1
+France 	 1
+Germany 	 1
+United Kingdom 	 1
+United States 	 1
+Norway 	 1
+United States 	 1
+United States 	 1
+Taiwan 	 1
+Taiwan 	 1
+Russia 	 1
+Qatar 	 1
+United States 	 1
+Russia 	 1
+China 	 1
+Turkey 	 1
+Spain 	 1
+China 	 1
+China 	 1
+China 	 1
+Hong Kong 	 1
+Japan 	 1
+China 	 1
+Belgium 	 1
+Germany 	 1
+United Kingdom 	 1
+United States 	 1
+China 	 1
+Hong Kong 	 1
+China 	 1
+South Africa 	 1
+United States 	 1
+China 	 1
+Germany 	 1
+China 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+Germany 	 1
+South Korea 	 1
+China 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+United Kingdom 	 1
+United States 	 1
+Japan 	 1
+Switzerland 	 1
+Taiwan 	 1
+India 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+France 	 1
+United States 	 1
+Ireland 	 1
+Taiwan 	 1
+South Korea 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Hong Kong 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+China 	 1
+China 	 1
+China 	 1
+China 	 1
+United States 	 1
+Italy 	 1
+Italy 	 1
+India 	 1
+United States 	 1
+France 	 1
+Hong Kong 	 1
+Hong Kong 	 1
+Netherlands 	 1
+Sweden 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+France 	 1
+China 	 1
+China 	 1
+United States 	 1
+United Kingdom 	 1
+Germany 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United Arab Emirates 	 1
+Japan 	 1
+Sweden 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+Taiwan 	 1
+United Arab Emirates 	 1
+United Kingdom 	 1
+United States 	 1
+South Korea 	 1
+United States 	 1
+Japan 	 1
+Australia 	 1
+France 	 1
+United States 	 1
+Switzerland 	 1
+South Africa 	 1
+China 	 1
+United States 	 1
+United Kingdom 	 1
+Thailand 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+India 	 1
+Hong Kong 	 1
+United States 	 1
+China 	 1
+France 	 1
+Australia 	 1
+United States 	 1
+India 	 1
+China 	 1
+Canada 	 1
+China 	 1
+United Kingdom 	 1
+Thailand 	 1
+United States 	 1
+South Korea 	 1
+Canada 	 1
+United States 	 1
+Czech Republic 	 1
+Ireland 	 1
+China 	 1
+Netherlands 	 1
+China 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Sweden 	 1
+Hong Kong 	 1
+United States 	 1
+Switzerland 	 1
+Austria 	 1
+United States 	 1
+Germany 	 1
+United States 	 1
+Netherlands 	 1
+United States 	 1
+Switzerland 	 1
+Canada 	 1
+Russia 	 1
+Singapore 	 1
+Japan 	 1
+United States 	 1
+Philippines 	 1
+Ireland 	 1
+Thailand 	 1
+China 	 1
+Hong Kong 	 1
+China 	 1
+Italy 	 1
+Spain 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Luxembourg 	 1
+South Korea 	 1
+United States 	 1
+United Kingdom 	 1
+Malaysia 	 1
+United States 	 1
+China 	 1
+Mexico 	 1
+China 	 1
+Ireland 	 1
+United States 	 1
+Germany 	 1
+Philippines 	 1
+United Kingdom 	 1
+United States 	 1
+Austria 	 1
+United States 	 1
+France 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+India 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+South Korea 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United Arab Emirates 	 1
+United States 	 1
+Russia 	 1
+United States 	 1
+Luxembourg 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+Japan 	 1
+Canada 	 1
+United States 	 1
+Japan 	 1
+Brazil 	 1
+Japan 	 1
+Spain 	 1
+United States 	 1
+Denmark 	 1
+Finland 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+Australia 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Chile 	 1
+United States 	 1
+United Kingdom 	 1
+United States 	 1
+Germany 	 1
+Thailand 	 1
+China 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+Mexico 	 1
+China 	 1
+Japan 	 1
+China 	 1
+Norway 	 1
+Luxembourg 	 1
+United States 	 1
+Japan 	 1
+Singapore 	 1
+South Korea 	 1
+United States 	 1
+Hong Kong 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+United States 	 1
+Italy 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+China 	 1
+China 	 1
+United States 	 1
+Saudi Arabia 	 1
+Japan 	 1
+Canada 	 1
+Netherlands 	 1
+Switzerland 	 1
+Switzerland 	 1
+United States 	 1
+Israel 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+Taiwan 	 1
+South Korea 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+Belgium 	 1
+China 	 1
+United States 	 1
+United States 	 1
+India 	 1
+Singapore 	 1
+Portugal 	 1
+United States 	 1
+Denmark 	 1
+Australia 	 1
+Saudi Arabia 	 1
+Japan 	 1
+France 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+Vietnam 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+Sweden 	 1
+Belgium 	 1
+Taiwan 	 1
+Switzerland 	 1
+South Africa 	 1
+Bermuda 	 1
+Hong Kong 	 1
+United States 	 1
+China 	 1
+Germany 	 1
+Brazil 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Hong Kong 	 1
+Spain 	 1
+Taiwan 	 1
+China 	 1
+China 	 1
+Japan 	 1
+China 	 1
+China 	 1
+Chile 	 1
+United States 	 1
+Russia 	 1
+China 	 1
+China 	 1
+United States 	 1
+South Africa 	 1
+United States 	 1
+France 	 1
+United States 	 1
+Brazil 	 1
+Japan 	 1
+Italy 	 1
+Bermuda 	 1
+Germany 	 1
+United Kingdom 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Singapore 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Australia 	 1
+Hong Kong 	 1
+South Korea 	 1
+China 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+Japan 	 1
+Chile 	 1
+Japan 	 1
+Saudi Arabia 	 1
+Japan 	 1
+South Korea 	 1
+Ireland 	 1
+Sweden 	 1
+Sweden 	 1
+Japan 	 1
+Saudi Arabia 	 1
+India 	 1
+South Korea 	 1
+United States 	 1
+France 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Belgium 	 1
+Taiwan 	 1
+China 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+India 	 1
+China 	 1
+Qatar 	 1
+South Korea 	 1
+South Africa 	 1
+South Korea 	 1
+United States 	 1
+Sweden 	 1
+Japan 	 1
+Malaysia 	 1
+Israel 	 1
+Canada 	 1
+Malaysia 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+South Korea 	 1
+United States 	 1
+Canada 	 1
+China 	 1
+Spain 	 1
+Japan 	 1
+France 	 1
+China 	 1
+China 	 1
+South Korea 	 1
+United States 	 1
+United Kingdom 	 1
+Peru 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Taiwan 	 1
+United States 	 1
+South Korea 	 1
+Hong Kong 	 1
+Japan 	 1
+Hong Kong 	 1
+United States 	 1
+China 	 1
+Germany 	 1
+Hong Kong 	 1
+Hong Kong 	 1
+Spain 	 1
+Chile 	 1
+Switzerland 	 1
+China 	 1
+Canada 	 1
+United States 	 1
+Taiwan 	 1
+China 	 1
+Luxembourg 	 1
+China 	 1
+Taiwan 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+Malaysia 	 1
+Brazil 	 1
+Canada 	 1
+United States 	 1
+United States 	 1
+China 	 1
+South Korea 	 1
+Japan 	 1
+Italy 	 1
+Sweden 	 1
+Kazakhstan 	 1
+United States 	 1
+South Korea 	 1
+China 	 1
+Japan 	 1
+South Korea 	 1
+Hong Kong 	 1
+Brazil 	 1
+United States 	 1
+South Korea 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Austria 	 1
+Qatar 	 1
+South Korea 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Saudi Arabia 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United Kingdom 	 1
+India 	 1
+South Africa 	 1
+China 	 1
+Germany 	 1
+Australia 	 1
+Hong Kong 	 1
+United States 	 1
+Sweden 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Sweden 	 1
+Colombia 	 1
+China 	 1
+China 	 1
+China 	 1
+Belgium 	 1
+Hong Kong 	 1
+South Korea 	 1
+United States 	 1
+Hong Kong 	 1
+United States 	 1
+United Kingdom 	 1
+Hong Kong 	 1
+India 	 1
+Germany 	 1
+Germany 	 1
+Sweden 	 1
+Italy 	 1
+Switzerland 	 1
+Japan 	 1
+Hong Kong 	 1
+Japan 	 1
+Japan 	 1
+Egypt 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Brazil 	 1
+United States 	 1
+Hong Kong 	 1
+United States 	 1
+Taiwan 	 1
+China 	 1
+China 	 1
+China 	 1
+India 	 1
+Taiwan 	 1
+Taiwan 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Switzerland 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+India 	 1
+China 	 1
+Japan 	 1
+Morocco 	 1
+Israel 	 1
+Japan 	 1
+United States 	 1
+China 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+Japan 	 1
+Argentina 	 1
+United Kingdom 	 1
+United States 	 1
+Kenya 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+Hong Kong 	 1
+Italy 	 1
+Switzerland 	 1
+Canada 	 1
+Japan 	 1
+Netherlands 	 1
+Vietnam 	 1
+Taiwan 	 1
+United Kingdom 	 1
+Japan 	 1
+Japan 	 1
+Poland 	 1
+Canada 	 1
+United States 	 1
+United States 	 1
+Norway 	 1
+India 	 1
+Spain 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Russia 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Sweden 	 1
+United States 	 1
+Brazil 	 1
+United States 	 1
+Mexico 	 1
+Russia 	 1
+China 	 1
+Portugal 	 1
+Japan 	 1
+United States 	 1
+Australia 	 1
+Japan 	 1
+Ireland 	 1
+Australia 	 1
+Hungary 	 1
+China 	 1
+United States 	 1
+China 	 1
+China 	 1
+China 	 1
+India 	 1
+Canada 	 1
+China 	 1
+United States 	 1
+China 	 1
+Canada 	 1
+India 	 1
+Cyprus 	 1
+China 	 1
+Bahrain 	 1
+China 	 1
+United Kingdom 	 1
+Japan 	 1
+United States 	 1
+China 	 1
+Sweden 	 1
+Japan 	 1
+Taiwan 	 1
+Hong Kong 	 1
+Japan 	 1
+South Africa 	 1
+Italy 	 1
+India 	 1
+Germany 	 1
+Japan 	 1
+Mexico 	 1
+China 	 1
+United Kingdom 	 1
+Japan 	 1
+China 	 1
+Vietnam 	 1
+Japan 	 1
+South Korea 	 1
+China 	 1
+Japan 	 1
+Canada 	 1
+United States 	 1
+China 	 1
+Denmark 	 1
+Austria 	 1
+United States 	 1
+Ireland 	 1
+United States 	 1
+China 	 1
+Japan 	 1
+Japan 	 1
+South Korea 	 1
+United States 	 1
+China 	 1
+United States 	 1
+Spain 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+Qatar 	 1
+Portugal 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+France 	 1
+Austria 	 1
+Israel 	 1
+Japan 	 1
+United Kingdom 	 1
+Argentina 	 1
+Japan 	 1
+South Korea 	 1
+Canada 	 1
+Luxembourg 	 1
+Austria 	 1
+United States 	 1
+United States 	 1
+Hong Kong 	 1
+South Africa 	 1
+Mexico 	 1
+United States 	 1
+Thailand 	 1
+Japan 	 1
+Greece 	 1
+United States 	 1
+Oman 	 1
+Australia 	 1
+France 	 1
+India 	 1
+Hong Kong 	 1
+China 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Kuwait 	 1
+Morocco 	 1
+Japan 	 1
+Ireland 	 1
+United States 	 1
+Brazil 	 1
+Nigeria 	 1
+Greece 	 1
+South Korea 	 1
+United States 	 1
+United States 	 1
+Canada 	 1
+United States 	 1
+Greece 	 1
+Denmark 	 1
+Sweden 	 1
+China 	 1
+United States 	 1
+United Kingdom 	 1
+Indonesia 	 1
+United States 	 1
+Spain 	 1
+Hong Kong 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Greece 	 1
+Brazil 	 1
+Ireland 	 1
+Taiwan 	 1
+China 	 1
+Japan 	 1
+China 	 1
+United States 	 1
+China 	 1
+Spain 	 1
+Japan 	 1
+China 	 1
+Indonesia 	 1
+United States 	 1
+Taiwan 	 1
+Qatar 	 1
+United States 	 1
+United States 	 1
+Turkey 	 1
+United States 	 1
+Hong Kong 	 1
+United Kingdom 	 1
+Germany 	 1
+Saudi Arabia 	 1
+Germany 	 1
+Sweden 	 1
+Japan 	 1
+South Africa 	 1
+United States 	 1
+South Korea 	 1
+Russia 	 1
+Thailand 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+China 	 1
+China 	 1
+South Korea 	 1
+Japan 	 1
+Germany 	 1
+United States 	 1
+Japan 	 1
+France 	 1
+Brazil 	 1
+United States 	 1
+United States 	 1
+Netherlands 	 1
+Canada 	 1
+Germany 	 1
+Japan 	 1
+Switzerland 	 1
+United States 	 1
+Philippines 	 1
+Canada 	 1
+Canada 	 1
+China 	 1
+United States 	 1
+China 	 1
+China 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+Japan 	 1
+United States 	 1
+Sweden 	 1
+Japan 	 1
+United States 	 1
+Japan 	 1
+Italy 	 1
+Russia 	 1
+China 	 1
+Switzerland 	 1
+United Kingdom 	 1
+Italy 	 1
+Japan 	 1
+Japan 	 1
+Hong Kong 	 1
+Taiwan 	 1
+Belgium 	 1
+United States 	 1
+Sweden 	 1
+China 	 1
+Philippines 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Russia 	 1
+United States 	 1
+Brazil 	 1
+Switzerland 	 1
+United Kingdom 	 1
+Poland 	 1
+China 	 1
+Poland 	 1
+United States 	 1
+Taiwan 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+China 	 1
+Denmark 	 1
+Norway 	 1
+United States 	 1
+Bangladesh 	 1
+Taiwan 	 1
+United States 	 1
+Ireland 	 1
+United States 	 1
+China 	 1
+Chile 	 1
+United Arab Emirates 	 1
+Hong Kong 	 1
+Australia 	 1
+United States 	 1
+United States 	 1
+Switzerland 	 1
+Italy 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+Australia 	 1
+China 	 1
+China 	 1
+Japan 	 1
+United States 	 1
+United States 	 1
+India 	 1
+China 	 1
+Hong Kong 	 1
+Japan 	 1
+Thailand 	 1
+Germany 	 1
+Kazakhstan 	 1
+Spain 	 1
+Brazil 	 1
+United States 	 1
+France 	 1
+United States 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+Japan 	 1
+Australia 	 1
+United States 	 1
+United States 	 1
+South Korea 	 1
+Japan 	 1
+United States 	 1
+Israel 	 1
+Germany 	 1
+China 	 1
+China 	 1
+United States 	 1
+United States 	 1
+United States 	 1
+China 	 1
+Australia 	 1
+Japan 	 1
+United States 	 1
+Vietnam 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+United Kingdom 	 1
+India 	 1
+Japan 	 1
+United States 	 1
+Switzerland 	 1
+China 	 1
+India 	 1
+United States 	 1
+United States 	 1
+China 	 1
+China 	 1
+Israel 	 1
+Philippines 	 1
+United States 	 1
+Italy 	 1
+Greece 	 1
+Canada 	 1
+Japan 	 1
+France 	 1
+Japan 	 1
+China 	 1
+Japan 	 1
+Turkey 	 1
+Germany 	 1
+China 	 1
+United States 	 1
+Japan 	 1
+Japan 	 1
+India 	 1
+Japan 	 1
+Switzerland 	 1
+United States 	 1
+China 	 1
+Mexico 	 1
+Australia 	 1
+Morocco 	 1
+Germany 	 1
+United States 	 1
+Sweden 	 1
+Thailand 	 1
+India 	 1
+Malaysia 	 1
+United States 	 1
+Germany 	 1
+United Kingdom 	 1
+China 	 1
+Nigeria 	 1
+Russia 	 1
+China 	 1
+India 	 1
+Japan 	 1
+Canada 	 1
+United States 	 1
+Switzerland 	 1
+Japan 	 1
+Sweden 	 1
+Japan 	 1
+Israel 	 1
+United States 	 1
+Taiwan 	 1
+Hong Kong 	 1
+Hong Kong 	 1
+Hong Kong 	 1
+China 	 1
+Hong Kong 	 1
+United States 	 1
+France 	 1
+China 	 1
+United States 	 1
+Switzerland 	 1
+France 	 1
+United Kingdom 	 1
+Hong Kong 	 1
+United States 	 1
+China 	 1
+Brazil 	 1
+Australia 	 1
+United States 	 1
+Japan 	 1
+Australia 	 1
+China 	 1
+South Africa 	 1
+United States 	 1
