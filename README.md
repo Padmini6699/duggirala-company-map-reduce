@@ -9,6 +9,8 @@ I have six columns in the data set which describe the sales and profits of vario
 
 # Following commands to run the script 
 
+Open the powershell and run the following commands. The first command I have used to map my dataset and the second command I have used it to reduce my dataset
+
 For Mapping
 
 ```cat fortune2021.csv | Python 01mapper.py > output.txt```
